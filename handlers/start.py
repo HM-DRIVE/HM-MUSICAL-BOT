@@ -29,7 +29,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""<b>Hi {message.from_user.mention} 😉️!</b>
 
-I'm Call Music Bot! A Powerful Bot plus Userbot to Play Music in Your Group Voice Chat 😇!
+I'm HM MUSIC BOT! A Powerful Bot plus Userbot to Play Music in Your Group Voice Chat 😇!
 
 Also I have more features! Please hit on **/help** to see them 😘!
 
@@ -48,15 +48,15 @@ Made with ❤️ **@{UPDATES_CHANNEL}**""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "📦 Source Code 📦", url="https://github.com/brut69/CallMusicPlus69"
+                        "📦 CHANNEL 📦", url="https://t.me/HMMODS_OFFICIAL"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🥰 Donate When 🥰", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "🥰 Donate When 🥰", url=f"https://t.me/HM_REQUESTBOT"
                     ),
                     InlineKeyboardButton(
-                        "🔥 Support Group 🔥", url="https://t.me/fantaestheticgang"
+                        "🔥 Support Group 🔥", url="https://t.me/HM_DISCUSS"
                     )
                 ]
             ]
@@ -150,12 +150,12 @@ Made with ❤️ by **@{UPDATES_CHANNEL}**""",
             [
                 [
                     InlineKeyboardButton(
-                        "🥰 Donate When 🥰", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "🥰 Donate When 🥰", url=f"https://t.me/HM_REQUESTBOT"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔥 Support Group 🔥", url="https://t.me/fantaestheticgang"
+                        "🔥 Support Group 🔥", url="https://t.me/HMMODS_OFFICIAL"
                     )
                 ]
             ]
@@ -197,10 +197,10 @@ Enjoy 😌️❤️!""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "🥰 Donate When 🥰", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "🥰 Donate When 🥰", url=f"https://t.me/HM_REQUESTBOT"
                     ),
                     InlineKeyboardButton(
-                        "🔥 Support Group 🔥", url="https://t.me/fantaestheticgang"
+                        "🔥 Support Group 🔥", url="https://t.me/HM_DISCUSS"
                     )
                 ]
             ]
